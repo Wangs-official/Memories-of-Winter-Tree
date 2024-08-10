@@ -1,0 +1,5 @@
+[tb_clear_images][mask time=200][bg  time="1"  storage="bg_base.webp"  _tb_parts_type="bg"  ]
+[tb_cg_image_button  graphic="青空.webp"  storage="system/master_cg.ks"  target=""  role="sleepgame"  no_graphic="&sf._tb_cg_noimage"  time="1"  width="300"  height="200"  x="101"  y="250"  _tb_parts_type="cg_image_button"  id="cg001"  ]
+[button  graphic="gallery_close2.webp"  storage="title_screen.ks"  target="*back"  time="1"  width="300"  height="200"  x="530"  y="53"  _tb_parts_type="button"  ]
+[mask_off time=200] 
+[s] 
